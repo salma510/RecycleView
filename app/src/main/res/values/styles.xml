@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+
+
+    <!-- TextStyle for TextViews -->
+    <style name="TextStyle">
+        <item name="android:textColor">@android:color/black</item> <!-- Couleur du texte -->
+        <item name="android:textSize">16sp</item>              <!-- Taille du texte -->
+        <item name="android:fontFamily">sans-serif</item>      <!-- Famille de police -->
+        <item name="android:padding">4dp</item>                <!-- Espacement intérieur -->
+    </style>
+</resources>
